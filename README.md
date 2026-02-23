@@ -4,5 +4,6 @@
 ![Validation Loss Comparison](results/validation across all models.png)
 
 ### Train vs Validation Loss (Best Model)
-![Train vs Val Loss](results/model_3_trainvsloss_best.png)
+![Train vs Val Loss](results/model_3 trainvsloss_best.png)
+
 
