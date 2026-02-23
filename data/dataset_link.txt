@@ -1,0 +1,2 @@
+Kaggle: NYC Taxi Trip Duration (search on Kaggle)
+Course bundle: nyc_taxi_data.npy (from Canvas)
